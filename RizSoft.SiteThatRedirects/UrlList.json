@@ -1,0 +1,23 @@
+[
+
+  {
+    "Path": "/bing",
+    "NewUrl": "https://bing.com"
+  },
+  {
+    "Path": "/yahoo",
+    "NewUrl": "https://yahoo.com"
+  },
+  {
+    "Path": "/google",
+    "NewUrl": "https://google.com"
+  },
+  {
+    "Path": "/mtb",
+    "NewUrl": "https://mtb.rizzetto.com"
+  },
+  {
+    "Path": "/mtb/tours-done",
+    "NewUrl": "https://mtb.rizzetto.com/tour-completati"
+  }
+]
