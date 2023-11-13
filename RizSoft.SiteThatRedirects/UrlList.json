@@ -1,23 +1,1944 @@
 [
-
   {
-    "Path": "/bing",
-    "NewUrl": "https://bing.com"
+    "Path": "/",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
   },
   {
-    "Path": "/yahoo",
-    "NewUrl": "https://yahoo.com"
+    "Path": "/.aspx?lang=de-DE",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
   },
   {
-    "Path": "/google",
-    "NewUrl": "https://google.com"
+    "Path": "/.aspx?lang=es-ES",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
   },
   {
-    "Path": "/mtb",
-    "NewUrl": "https://mtb.rizzetto.com"
+    "Path": "/.aspx?lang=fr-FR",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
   },
   {
-    "Path": "/mtb/tours-done",
-    "NewUrl": "https://mtb.rizzetto.com/tour-completati"
+    "Path": "/.aspx?lang=it-IT",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Analisis-de-la-marcha",
+    "NewUrl": "https://medical.microgate.it/es/soluciones/analisis-de-la-marcha"
+  },
+  {
+    "Path": "/Analisis-de-la-marcha-en-tapiz-rodante",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait/el-sistema-en-tapete"
+  },
+  {
+    "Path": "/Anwendungen",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait/was-ist"
+  },
+  {
+    "Path": "/Anwendungen/Anwendungshinweise/Counter-Movement-Jump",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait/was-ist"
+  },
+  {
+    "Path": "/Anwendungen/Anwendungshinweise/Squat-Jump",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait/was-ist"
+  },
+  {
+    "Path": "/Anwendungen/Anwendungshinweise/Squat-Jump-mit-Gewicht",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait/was-ist"
+  },
+  {
+    "Path": "/Anwendungen/Anwendungshinweise/Vertec-Like",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait/was-ist"
+  },
+  {
+    "Path": "/Anwendungen/Fallstudien/Verwendung-von-orthopadischen-Korrektureinlagen",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait/was-ist"
+  },
+  {
+    "Path": "/Anwendungen/Gait-Analysis",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait/was-ist"
+  },
+  {
+    "Path": "/Anwendungen/Protokolle/Drift-Protokoll",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait/was-ist"
+  },
+  {
+    "Path": "/Anwendungen/Protokolle/Five-Dot-Drill-Protokoll",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait/was-ist"
+  },
+  {
+    "Path": "/Anwendungen/Protokolle/GG-Protokoll",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait/was-ist"
+  },
+  {
+    "Path": "/Anwendungen/Referenzen",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait/was-ist"
+  },
+  {
+    "Path": "/Aplicaciones",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait/que-es"
+  },
+  {
+    "Path": "/Aplicaciones/Analisis-de-la-marcha",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait/que-es"
+  },
+  {
+    "Path": "/Aplicaciones/Analisis-personalizado",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait/que-es"
+  },
+  {
+    "Path": "/Aplicaciones/Deportistas-de-elite",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait/que-es"
+  },
+  {
+    "Path": "/Aplicaciones/Electromiografia-superficial",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait/que-es"
+  },
+  {
+    "Path": "/Aplicaciones/Estudios-de-caso/Utilizzo-de-plantillas-ortopedica-para-el-reequili",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait/que-es"
+  },
+  {
+    "Path": "/Aplicaciones/Marcha-en-el-sitio",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait/que-es"
+  },
+  {
+    "Path": "/Aplicaciones/Protocolos/Protocolo-Drift",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait/que-es"
+  },
+  {
+    "Path": "/Aplicaciones/Protocolos/Protocolo-Five-Dot-Drill",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait/que-es"
+  },
+  {
+    "Path": "/Aplicaciones/Protocolos/Protocolo-GG",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait/que-es"
+  },
+  {
+    "Path": "/Aplicaciones/Protocolos/Protocolo-Single-Legs-3-Hops",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait/que-es"
+  },
+  {
+    "Path": "/Aplicaciones/Referencia-biomecanica",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait/que-es"
+  },
+  {
+    "Path": "/Aplicaciones/Ritmo-optimo-de-marcha",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait/que-es"
+  },
+  {
+    "Path": "/Aplicaciones/Tipologia-de-Test-deportivo",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait/que-es"
+  },
+  {
+    "Path": "/Aplicaciones/Tipologia-de-Test-deportivo/Counter-Movement-Jump",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait/que-es"
+  },
+  {
+    "Path": "/Aplicaciones/Tipologia-de-Test-deportivo/Squat-Jump",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait/que-es"
+  },
+  {
+    "Path": "/Aplicaciones/Tipologia-de-Test-deportivo/Test-de-Reaccion",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait/que-es"
+  },
+  {
+    "Path": "/Applications/4YourGait",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/features"
+  },
+  {
+    "Path": "/Applications/Bio-Feedback",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/features"
+  },
+  {
+    "Path": "/Applications/Electromyographie-de-surface",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/features"
+  },
+  {
+    "Path": "/Applications/Gait-Analysis",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/features"
+  },
+  {
+    "Path": "/Applications/Gait-Rhythm",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/features"
+  },
+  {
+    "Path": "/Applications/Gyko-Inertial-System",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/features"
+  },
+  {
+    "Path": "/Applications/Gyko-Inertial-System/Gyko-Standalone",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/features"
+  },
+  {
+    "Path": "/Applications/March-in-Place",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/features"
+  },
+  {
+    "Path": "/Applications/Protocols",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/features"
+  },
+  {
+    "Path": "/Applications/Protocols/Single-Legs-3-Hops-Protocol",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/features"
+  },
+  {
+    "Path": "/Applications/Protocols-fr/Protocole-Drift",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/features"
+  },
+  {
+    "Path": "/Applications/Protocols-fr/Protocole-Five-Dot-Drill",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/features"
+  },
+  {
+    "Path": "/Applications/References",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/features"
+  },
+  {
+    "Path": "/Applications/Run-Analysis",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/features"
+  },
+  {
+    "Path": "/Applications/Surface-EMG",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/features"
+  },
+  {
+    "Path": "/Applications/Top-Athletes",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/features"
+  },
+  {
+    "Path": "/Applications/Typologie-de-test-sportif/Drop-Jump",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait/cest-quoi"
+  },
+  {
+    "Path": "/Applications/Typologie-de-test-sportif/Stiffness",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait/cest-quoi"
+  },
+  {
+    "Path": "/Applications/Typologie-de-test-sportif/Test-de-reaction",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait/cest-quoi"
+  },
+  {
+    "Path": "/Applications-fr",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait/cest-quoi"
+  },
+  {
+    "Path": "/Applicazioni.aspx?lang=it-IT",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait/caratteristiche"
+  },
+  {
+    "Path": "/Applicazioni/Elettromiografia-superficiale.aspx?lang=it-IT",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait/caratteristiche"
+  },
+  {
+    "Path": "/Applicazioni/Gait-Analysis.aspx?lang=fr-FR",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait/caratteristiche"
+  },
+  {
+    "Path": "/Applicazioni/Gait-Analysis.aspx?lang=it-IT",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait/caratteristiche"
+  },
+  {
+    "Path": "/Applicazioni/Gyko/Analisi-Postura.aspx?lang=it-IT",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait/caratteristiche"
+  },
+  {
+    "Path": "/Applicazioni/Gyko/Gait",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait/caratteristiche"
+  },
+  {
+    "Path": "/Applicazioni/Opto4Kids",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait/caratteristiche"
+  },
+  {
+    "Path": "/Applicazioni/Protocolli/Protocollo-Drift.aspx?lang=it-IT",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait/caratteristiche"
+  },
+  {
+    "Path": "/Applicazioni/Sistema-Inerziale-Gyko",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait/caratteristiche"
+  },
+  {
+    "Path": "/Applicazioni/Sistema-Inerziale-Gyko/Salti-Verticali",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait/caratteristiche"
+  },
+  {
+    "Path": "/Applicazioni/Tipologie-di-Test-Sportivi/Drop-Jump.aspx?lang=it-IT",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait/caratteristiche"
+  },
+  {
+    "Path": "/Applicazioni/Tipologie-di-Test-Sportivi/Ski-Test.aspx?lang=it-IT",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait/caratteristiche"
+  },
+  {
+    "Path": "/Applicazioni/Tipologie-di-Test-Sportivi/Test-Reazione.aspx?lang=it-IT",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait/caratteristiche"
+  },
+  {
+    "Path": "/Applicazioni/Tipologie-di-Test-Sportivi/Vertec-Like.aspx?lang=it-IT",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait/caratteristiche"
+  },
+  {
+    "Path": "/Applicazioni/Video-Feedback.aspx?lang=it-IT",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait/caratteristiche"
+  },
+  {
+    "Path": "/Biomechanical-Assessment",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/C-est-quoi-Optogait",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait/cest-quoi"
+  },
+  {
+    "Path": "/C-est-quoi-Optogait/Le-logiciel",
+    "NewUrl": "https://medical.microgate.it/fr/prodotti/optogait/il-software"
+  },
+  {
+    "Path": "/C-est-quoi-Optogait/Le-systeme-modulaire",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait/le-systeme-modulaire"
+  },
+  {
+    "Path": "/C-est-quoi-Optogait/Le-systeme-sur-tapis-de-course",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait/le-systeme-sur-tapis-de-course"
+  },
+  {
+    "Path": "/C-est-quoi-Optogait/Metre-individuel",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait/metre-individuel"
+  },
+  {
+    "Path": "/Contenidos/News/Nueva-version-del-Software-1-5",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/the-software/version-history"
+  },
+  {
+    "Path": "/Contenidos/Video-Gallery/Active-Spine-and-Joint-Center",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/News/New-Software-Version-1-11-en-1",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/the-software/version-history"
+  },
+  {
+    "Path": "/Contents/News/New-Software-Version-1-12-fr",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/the-software/version-history"
+  },
+  {
+    "Path": "/Contenus/News/New-Software-Version-1-11",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/the-software/version-history"
+  },
+  {
+    "Path": "/Contenus/News/New-Software-Version-1-8",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/the-software/version-history"
+  },
+  {
+    "Path": "/Contenus/News/New-Software-Version-1-9",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/the-software/version-history"
+  },
+  {
+    "Path": "/Contenus/News/Nouvelle-version-du-logiciel-1-5",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/the-software/version-history"
+  },
+  {
+    "Path": "/Contenus/News/Video-replay-corrupted-after-Windows-Update",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contenuti/News/Mo-Farah-and-Gallen-Rupp-si-allenano-a-Portland",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contenuti/News/Nuova-versione-Software-1-12.aspx?lang=it-IT",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/the-software/version-history"
+  },
+  {
+    "Path": "/Contenuti/News/Nuova-versione-Software-1-2.aspx?lang=es-ES",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/the-software/version-history"
+  },
+  {
+    "Path": "/Contenuti/News/Nuova-versione-Software-1-2.aspx?lang=fr-FR",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/the-software/version-history"
+  },
+  {
+    "Path": "/Contenuti/News/Nuova-Versione-Software-1-3.aspx?lang=de-DE",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/the-software/version-history"
+  },
+  {
+    "Path": "/Contenuti/News/Nuova-Versione-Software-1-3.aspx?lang=es-ES",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/the-software/version-history"
+  },
+  {
+    "Path": "/Contenuti/News/Nuova-Versione-Software-1-3.aspx?lang=fr-FR",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/the-software/version-history"
+  },
+  {
+    "Path": "/Contenuti/News/Nuova-Versione-Software-1-5.aspx?lang=it-IT",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/the-software/version-history"
+  },
+  {
+    "Path": "/Contenuti/News/Nuova-versione-software-1-8.aspx?lang=it-IT",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/the-software/version-history"
+  },
+  {
+    "Path": "/Contenuti/News/Sara-Errani-Roberta-Vinci-training-with-OptoGait.aspx?lang=it-IT",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Contenuti/News/Update-for-OptoJump-Next-software-due-to-Logitech.aspx?lang=es-ES",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenuti/Publications/Development-and-validation-of-a-low-cost,-portable",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contenuti/Publications/The-immediate-effects-of-myofascial-compression-te",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contenuti/Video-Gallery.aspx?lang=it-IT",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Cos-e-Optogait",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait/caratteristiche"
+  },
+  {
+    "Path": "/Electromiografia-superficial",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Evaluacion-biomecanica",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Fases-de-la-marcha.aspx?lang=es-ES",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/gait-Analysis",
+    "NewUrl": "https://medical.microgate.it/en/solutions/gait-analysis"
+  },
+  {
+    "Path": "/Gait-Analysis-on-Treadmill",
+    "NewUrl": "https://medical.microgate.it/en/solutions/gait-analysis"
+  },
+  {
+    "Path": "/Gait-Analysis-Workshop-in-Lund",
+    "NewUrl": "https://medical.microgate.it/en/solutions/gait-analysis"
+  },
+  {
+    "Path": "/Gait-Phases",
+    "NewUrl": "https://medical.microgate.it/en/solutions/gait-analysis"
+  },
+  {
+    "Path": "/Inhalt/News/Neue-Softwareversion-1-4",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/the-software/version-history"
+  },
+  {
+    "Path": "/Inhalt/News/Neue-Softwareversion-1-5",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/the-software/version-history"
+  },
+  {
+    "Path": "/Inhalt/News/New-Software-Version-1-11.aspx?lang=de-DE",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/the-software/version-history"
+  },
+  {
+    "Path": "/Inhalt/News/New-Software-Version-1-8",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/the-software/version-history"
+  },
+  {
+    "Path": "/Inhalt/News/Video-replay-corrupted-after-Windows-Update",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Video-Gallery/Treadmill-Speed",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Optogait/Data-Table",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Optogait/Il-sistema-bidimensionale.aspx?lang=it-IT",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait/il-sistema-bidimensionale"
+  },
+  {
+    "Path": "/Optogait/Il-sistema-modulare.aspx?lang=it-IT",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait/il-sistema-modulare"
+  },
+  {
+    "Path": "/Optogait/Il-sistema-su-Treadmill.aspx?lang=it-IT",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait/il-sistema-su-treadmill"
+  },
+  {
+    "Path": "/Optogait/Quick-Start-with-OptoGait",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Optogait/Software",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/the-software"
+  },
+  {
+    "Path": "/Optogait/Software.aspx?lang=it-IT",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait/il-software"
+  },
+  {
+    "Path": "/Optogait/The-modular-system",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/modular-system"
+  },
+  {
+    "Path": "/Optogait/The-single-meter",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/single-meter"
+  },
+  {
+    "Path": "/Optogait/Transport",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/transport"
+  },
+  {
+    "Path": "/OptoGait-DE.aspx?lang=de-DE",
+    "NewUrl": "https://medical.microgate.it/de/prodotti/optogait/il-software"
+  },
+  {
+    "Path": "/optogait-en",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/optogait-it",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/OptoGaitPortal/Media/Manuals/Manual-de.PDF",
+    "NewUrl": "https://medical.microgate.it/de/support/gebrauchanweisungen"
+  },
+  {
+    "Path": "/optogaitportal/media/manuals/manual-en.pdf",
+    "NewUrl": "https://medical.microgate.it/en/support/manuals"
+  },
+  {
+    "Path": "/optogaitportal/media/manuals/manual-es.pdf",
+    "NewUrl": "https://medical.microgate.it/es/soporte/manuales"
+  },
+  {
+    "Path": "/optogaitportal/media/manuals/manual-fr.pdf",
+    "NewUrl": "https://medical.microgate.it/fr/support/manuel"
+  },
+  {
+    "Path": "/OptoGaitPortal/Media/Manuals/Manual-IT.PDF",
+    "NewUrl": "https://medical.microgate.it/it/supporto/manuali"
+  },
+  {
+    "Path": "/que-es-optogait",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait/que-es"
+  },
+  {
+    "Path": "/Que-es-OptoGait/El-metro-individual",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait/el-metro-individual"
+  },
+  {
+    "Path": "/Que-es-OptoGait/El-sistema-en-tapete",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait/el-sistema-en-tapete"
+  },
+  {
+    "Path": "/Que-es-OptoGait/El-sistema-modular",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait/el-sistema-modular"
+  },
+  {
+    "Path": "/Que-es-OptoGait/El-software",
+    "NewUrl": "https://medical.microgate.it/es/prodotti/optogait/il-software"
+  },
+  {
+    "Path": "/Que-es-OptoGait/Inicio-rapido-con-OptoGait",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Que-es-OptoGait/Transport",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait/transport"
+  },
+  {
+    "Path": "/Support/FAQ-en",
+    "NewUrl": "https://medical.microgate.it/en/support/faq"
+  },
+  {
+    "Path": "/Support/FAQ-fr",
+    "NewUrl": "https://medical.microgate.it/fr/support/faq"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/Come-e-meglio-organizzare-la-struttura-delle-carte",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/Come-e-meglio-organizzare-la-struttura-delle-carte.aspx?lang=de-DE",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/Come-e-meglio-organizzare-la-struttura-delle-carte.aspx?lang=es-ES",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/Cosa-e-l-Indice-di-Sbilanciamento--.aspx?lang=de-DE",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/Funciones-disponibles-desde-la-vista-de-las-barras",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/How-to-install-the-Ximea-webcam-driver",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/How-to-install-the-Ximea-webcam-driver.aspx?lang=es-ES",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/Il-modulo-Video-Feedback.aspx?lang=it-IT",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/Pied-de-depart",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/Pie-de-Salida",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/Start-Foot",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/Startfuß",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/Test-con-salida-con-tres-puntos-de-apoyo",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/The-filter-parameters-GaitR-In-and-GaitR-Out",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/Three-Points-Start-Test",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/Webcams-and-video-formats",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/Webcams-y-formatos-de-video",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Support/Preguntas-frecuentes",
+    "NewUrl": "https://medical.microgate.it/es/soporte/faq"
+  },
+  {
+    "Path": "/Support/Soporte-Remoto",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Video-Analysis.aspx?lang=en-US",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Was-ist-Optogait",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait/was-ist"
+  },
+  {
+    "Path": "/Was-ist-Optogait/Das-System-auf-Laufband",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait/das-system-auf-laufband"
+  },
+  {
+    "Path": "/Was-ist-Optogait/Die-Software",
+    "NewUrl": "https://medical.microgate.it/de/prodotti/optogait/il-software"
+  },
+  {
+    "Path": "/Was-ist-Optogait/Einzelmeter",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait/einzelmeter"
+  },
+  {
+    "Path": "/Was-ist-Optogait/Installation",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait/installation"
+  },
+  {
+    "Path": "/what-is-optogait",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/features"
+  },
+  {
+    "Path": "/What-is-OptoGait/Install-and-setup",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/install-and-setup"
+  },
+  {
+    "Path": "/What-is-OptoGait/The-software",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/the-software"
+  },
+  {
+    "Path": "/What-is-OptoGait/The-software.aspx?lang=en-US",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/the-software"
+  },
+  {
+    "Path": "/What-is-OptoGait/The-two-dimensional-system",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait/two-dimensional-system"
+  },
+  {
+    "Path": "/Anwendungen/Anwendungshinweise/60-Sek",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Anwendungen/Anwendungshinweise/Drop-Jump",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Anwendungen/Anwendungshinweise/Shuttle-Test",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Anwendungen/Anwendungshinweise/Ski-Test",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Anwendungen/Oberflachenelektromyografie",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Anwendungen/Protokolle/Single-Legs-3-Hops-Protokoll",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Contents/News/New-Software-Version-1-12-de",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Contents/News/New-Software-version-1-9",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/News/Neue-Software-Version-1-2",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/News/Neue-Softwareversion-1-6",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/News/New-Software-Version-1-10",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/News/New-Software-Version-1-11",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/News/New-Software-Version-1-9",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Photo-Gallery/Laufband",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Photo-Gallery/Modul-System",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Photo-Gallery/Produkt",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Photo-Gallery/Werbekampagne",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Veranstaltungen/11es-Journee-de-la-SOFAMEA",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Veranstaltungen/2012-ACA-Sports-Council-Annual-Symposium",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Veranstaltungen/2012-Chiropractic-Sports-Sciences-Symposium",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Veranstaltungen/ACC-RAC-2012--Association-of-Chiropractic-Colleges",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Veranstaltungen/ChinaMed-2012",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Veranstaltungen/MEDICA-Trade-Fair-2012",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Veranstaltungen/MEDICA-Trade-Fair-2013",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Veranstaltungen/Vergangene-Veranstaltungen",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Veranstaltungen/Vergangene-Veranstaltungen/Chiropratic-Sports-Sciences-Symposium",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Veranstaltungen/Vergangene-Veranstaltungen/Medica-2010",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Video-Gallery",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Video-Gallery/Active-Spine-and-Joint-Center",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Video-Gallery/Gait-Analysis-in-the-Middle-Ages",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Video-Gallery/NFL-Chad-Jones-Rehab",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Video-Gallery/Presentation-of-Matt-Shade",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Video-Gallery/Presentation-of-MD-J-Jimenz",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Video-Gallery/Savannah-varsity",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Video-Gallery/Seminario-patologia-del-pie-Zaragoza",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Video-Gallery/Tape-Application",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Inhalt/Video-Gallery/Video-Feedback-Feature",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/OptoGait-DE",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Support/Downloads-de",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/Directories-of-Database-and-video/images-files-de",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/In-welchen-Formen-steht-OptoGait-zur-Verfugung-",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/Ist-das-1-m-Kit-erweiterbar-",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/Kann-OptoGait-auch-auf-Apple-Macintosh-eingesetzt",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/Was-ist-im-Standard-Kit-inklusive-",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/Welche-sind-die-Mindestvoraussetzungen-fur-den-Ein",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/Wozu-dient-die-Webcam-",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Support/FAQ-de",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/Webcams-and-video-formats-de",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base-de",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Support/Kontaktieren-Sie-uns",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Support-de",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Uber-uns",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Uber-uns/Vertriebsnetz",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Uber-uns/Vertriebsnetz/Handler",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Uber-uns/Wo-finden-Sie-uns",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Was-ist-Optogait/Das-Modulsystem",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/Was-ist-Optogait/Transport",
+    "NewUrl": "https://medical.microgate.it/de/produkte/optogait"
+  },
+  {
+    "Path": "/About-us",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/About-us/Contact-us",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/About-us/Sales-Network",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/About-us/Sales-Network/Distributor",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/About-us/Where-to-find-us",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Case-Studies",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Case-Studies/Use-of-Orthotics-for-patient-balance",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Gait-Print",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Gyko-Inertial-System/Posture-Analysis",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Gyko-Inertial-System/Vertical-Jumps",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Gyko-Inertial-System/Walking-Running-Marching-in-place",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Med-Test-Typologies",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Med-Test-Typologies/Modular-System",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Med-Test-Typologies/Single-Meter-System",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Med-Test-Typologies/Treadmill-System",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Protocols/Drift-Protocol",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Protocols/Five-Dot-Drill-Protocol",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Protocols/GG-Protocol",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Sport-Test-Typologies",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Sport-Test-Typologies/60-sec",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Sport-Test-Typologies/Counter-Movement-Jump",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Sport-Test-Typologies/Drop-Jump",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Sport-Test-Typologies/Monopodalic",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Sport-Test-Typologies/Reaction-Test",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Sport-Test-Typologies/Shuttle-Test",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Sport-Test-Typologies/Ski-Test",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Sport-Test-Typologies/Squat-Jump",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Sport-Test-Typologies/Squat-Jump-with-weights",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Sport-Test-Typologies/Stiffness",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Sport-Test-Typologies/Vertec-Like",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Applications/Video-Feedback",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contenidos/Eventos/Congreso-Nacional-Podologia-1",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Events/2012-Chiropractic-Sports-Sciences-Symposium",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Events/ACC-RAC-2012--Association-of-Chiropractic-Colleges",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Events/MEDICA-Trade-Fair-2013",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Events/Past-Events",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Events/Past-Events/11es-Journee-de-la-SOFAMEA",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Events/Past-Events/2012-ACA-Sports-Council-Annual-Symposium",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Events/Past-Events/ChinaMed-2012",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Events/Past-Events/Chiropratic-Sports-Sciences-Symposium",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Events/Past-Events/Gramedica-GIII-5th-Annual-Symposium",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Events/Past-Events/Medica-2010",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Events/Past-Events/MEDICA-Trade-Fair-2012",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/News/Avast-Antivirus-blocks-webcam",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/News/Mo-Farah-and-Galen-Rupp-workout-in-Portland",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/News/New-Software-Version-1-10",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/News/New-Software-Version-1-11-en",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/News/New-Software-Version-1-12-en",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/News/New-software-version-1-2",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/News/New-software-version-1-3",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/News/New-software-version-1-4",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/News/New-software-version-1-5",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/News/New-software-version-1-6",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/News/New-Software-version-1-7",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/News/New-Software-Version-1-8-en",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/News/New-Software-Version-1-9-en",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/News/New-technology-measures-body-imbalance-as-you-do-y",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/News/Nike-Pegasus-shoes-engineered-with-OptoGait",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/News/Online-the-new-portal-OptoGait-com",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/News/OptoGait-Video-Feedback-and-Traumatic-Brain-Injury",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/News/Outstanding-coaches-honored-by-USOC",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/News/Sara-Errani-Roberta-Vinci-training-with-OptoGait",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/News/Tape-application-analized-with-OptoGait",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/News/TB12-Sports-Therapy-Center-is-now-certified-Microg",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/News/Video-replay-corrupted-after-Windows-Update",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Photo-Gallery",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Photo-Gallery/Campaign",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Photo-Gallery/Modular-System",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Photo-Gallery/Product",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Photo-Gallery/Treadmill",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Video-Gallery",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Video-Gallery/Active-Spine-and-Joint-Center",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Video-Gallery/Gait-Analysis-in-the-Middle-Ages",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Video-Gallery/NFL-Chad-Jones-Rehab",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Video-Gallery/OptoGait-Software",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Video-Gallery/Presentation-of-Matt-Shade",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Video-Gallery/Presentation-of-MD-J-Jimenz",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Video-Gallery/Savannah-varsity",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Video-Gallery/Seminario-patologia-del-pie-Zaragoza",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Video-Gallery/Tape-Application",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Video-Gallery/Treadmill-Speed",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Contents/Video-Gallery/Video-Feedback-Feature",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Gait-Rhythm",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/LandingPages/Home-en",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/OptoAPI",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Optogait/The-system-on-Treadmill",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/OptoGait-at-Medica2014",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Partners",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Support/Downloads/Software-Version-History",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Support/Downloads-en",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/Does-OptoGait-Software-run-on-Apple-Macintosh-Syst",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/How-to-organize-the-folder-structure-of-the-databa",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/If-buy-a-one-meter-system-today,-can-I-extend-it-t",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/images-files",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/In-what-configuration-is-Optogait-sold--",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/What’s-the-two-webcams-for--",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/What-are-the-minimum-requirements-of-a-PC-to-run-O",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/What-does-a-standard-Kit-include--",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/First-Step-Preview-Video-Popup",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/Operations-available-from-the-Bar-Footprint-View",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/The-Video-Feedback-Module",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base-en",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Support/Remote-Support",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Support-en",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Surface-Electromyography",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Thank-you",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Video-Analysis",
+    "NewUrl": "https://medical.microgate.it/en/products/optogait"
+  },
+  {
+    "Path": "/Analisis-de-la-marcha-1",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Aplicaciones/Estudios-de-caso",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Aplicaciones/Test-medicos",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Aplicaciones/Test-medicos/Metro-individual",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Aplicaciones/Test-medicos/Sistema-en-tapiz-rodante",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Aplicaciones/Test-medicos/Sistema-modular",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Aplicaciones/Tipologia-de-Test-deportivo/Drop-Jump",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Aplicaciones/Tipologia-de-Test-deportivo/Monopodalic",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Aplicaciones/Tipologia-de-Test-deportivo/Saltos-15/30/60-sec",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Aplicaciones/Tipologia-de-Test-deportivo/Shuttle-Test",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Aplicaciones/Tipologia-de-Test-deportivo/Ski-Test",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Aplicaciones/Tipologia-de-Test-deportivo/Squat-Jump-con-cargas",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Aplicaciones/Tipologia-de-Test-deportivo/Stiffness",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Aplicaciones/Tipologia-de-Test-deportivo/Vertec-Like",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Eventos/11es-Journee-de-la-SOFAMEA",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Eventos/2012-ACA-Sports-Council-Annual-Symposium",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Eventos/2012-Chiropractic-Sports-Sciences-Symposium",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Eventos/ACC-RAC-2012--Association-of-Chiropractic-Colleges",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Eventos/ChinaMed-2012",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Eventos/Congreso-Nacional-Podologia-2014",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Eventos/Eventos-pasados",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Eventos/Eventos-pasados/2-Seminario-internacional-de-patologia-del-pie",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Eventos/Eventos-pasados/La-locomocion-humana-nuevas-lineas-de-investigaci",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Eventos/Eventos-pasados/MEDICA-Trade-Fair-2013",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Eventos/Eventos-pasados/Seminario-Internacional-Podologia-Deportiva",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Eventos/MEDICA-Trade-Fair-2012",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/News/New-Software-Version-1-10",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/News/New-Software-Version-1-8",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/News/New-Software-Version-1-9",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/News/Nueva-version-del-Software-1-4",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/News/Nueva-version-del-Software-1-6",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/News/Video-replay-corrupted-after-Windows-Update",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Photo-Gallery/Campana",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Photo-Gallery/Producto",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Photo-Gallery/Sistema-Modular",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Photo-Gallery/Tapete",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Video-Gallery",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Video-Gallery/Gait-Analysis-in-the-Middle-Ages",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Video-Gallery/NFL-Chad-Jones-Rehab",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Video-Gallery/Presentation-of-Matt-Shade",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Video-Gallery/Presentation-of-MD-J-Jimenz",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Video-Gallery/Savannah-varsity",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Video-Gallery/Seminario-patologia-del-pie-Zaragoza",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Video-Gallery/Tape-Application",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Video-Gallery/Treadmill-Speed",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contenidos/Video-Gallery/Video-Feedback-Feature",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contents/News/New-Software-version-1-1",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Contents/News/New-Software-Version-1-12-es",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Fases-de-la-marcha",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Gracias",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/LandingPages/Home-es",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Que-es-OptoGait/Montaje",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Quienes-somos",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Quienes-somos-/Donde-encontrarnos",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Quienes-somos/Red-de-ventas",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Quienes-somos/Red-de-ventas/Distribuidores",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Support/Base-de-conocimiento",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Support/Contactanos",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/¿Cuales-son-los-requisitos-minimos-de-un-ordenador",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/¿Software-OptoGait--funciona-con-el-Sistema-de-Mac",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/Los-directorios-de-la-Base-de-datos-y-archivos-de",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/Los-filtros-GaitR-In-y-GaitR-Out",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/Modulo-de-feedback-con-video",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/Vista-previa-del-primer-paso",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/support-es",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Video-analisis-de-la-marcha",
+    "NewUrl": "https://medical.microgate.it/es/productos/optogait"
+  },
+  {
+    "Path": "/Applications/Etudes-de-cas",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Applications/Etudes-de-cas/Utilisation-de-semelles-orthopediques-pour-l-equil",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Applications/Protocols/Protocole-Single-Legs-3-Hops",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Applications/Protocols-fr",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Applications/Protocols-fr/Protocole-GG",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Applications/References-fr",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Applications/Typologie-de-test-sportif",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Applications/Typologie-de-test-sportif/60-sec",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Applications/Typologie-de-test-sportif/Counter-Movement-Jump",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Applications/Typologie-de-test-sportif/Monopodalic",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Applications/Typologie-de-test-sportif/Ski-Test",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Applications/Typologie-de-test-sportif/Squat-Jump",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Applications/Typologie-de-test-sportif/Squat-Jump-avec-surcharge",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Applications/Typologie-de-test-sportif/Test-Navette",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Applications/Typologie-de-test-sportif/Vertec-Like",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/C-est-quoi-Optogait/Assemblage",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/C-est-quoi-Optogait/Transport",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contents/News/New-Software-version-1-8",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Evenements/11es-Journee-de-la-SOFAMEA",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Evenements/2012-ACA-Sports-Council-Annual-Symposium",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Evenements/2012-Chiropractic-Sports-Sciences-Symposium",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Evenements/ACC-RAC-2012--Association-of-Chiropractic-Colleges",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Evenements/ChinaMed-2012",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Evenements/Evenements-passes",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Evenements/Evenements-passes/Chiropratic-Sports-Sciences-Symposium",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Evenements/Evenements-passes/Medica-2010-fr",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Evenements/MEDICA-Trade-Fair-2012",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Evenements/MEDICA-Trade-Fair-2013",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/News/New-Software-Version-1-10",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/News/Nouvelle-version-du-logiciel-(1-4)",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/News/Nouvelle-version-du-logiciel-1-6",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Photo-Gallery",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Photo-Gallery/Campagne",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Photo-Gallery/Produit",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Photo-Gallery/Systeme-modulaire",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Photo-Gallery/Tapis-de-course",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Video-Gallery",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Video-Gallery/Active-Spine-and-Joint-Center",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Video-Gallery/Analyse-de-la-marche-en-Moyen-Age",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Video-Gallery/NFL-Chad-Jones-Rehab",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Video-Gallery/Presentation-of-Matt-Shade",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Video-Gallery/Presentation-of-MD-J-Jimenz",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Video-Gallery/Savannah-varsity",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Video-Gallery/Seminario-patologia-del-pie-Zaragoza",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Video-Gallery/Tape-Application",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Video-Gallery/Treadmill-Speed",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Contenus/Video-Gallery/Video-Feedback-Feature",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Qui-sommes-nous",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Qui-sommes-nous/Contactez-nous",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Qui-sommes-nous/Ou-nous-trouver",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Qui-sommes-nous/Reseau-de-vente",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Qui-sommes-nous/Reseau-de-vente/Distributeurs",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Support/Assistance-a-distance",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Support/Downloads-fr",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/A-quoi-sert-la-webcam--",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/Dans-quelle-configuration-est-vendu-Optogait-",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/Directories-of-Database-and-video/images-files-fr",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/Does-OptoGait-Software-run-on-Apple-Macintosh-Syst-fr",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/En-achetant-aujourd-hui-un-systeme-d-un-metre,-pou",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/Que-comprend-un-Kit-standard--",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Support/FAQ/What-are-the-minimum-requirements-of-a-PC-to-run-O-fr",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base/Webcams-and-video-formats-fr",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base-fr",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Support-Fr",
+    "NewUrl": "https://medical.microgate.it/fr/produits/optogait"
+  },
+  {
+    "Path": "/Applicazioni/Case-Studies/Utilizzo-di-plantari-correttivi-per-il-riequilibri",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Applicazioni/Sistema-Inerziale-Gyko/Gyko-Standalone",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Applicazioni/Video-Feedback",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Chi-siamo/Rete-Vendita",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Contenuti/Eventi/2012-ACA-Sports-Council-Annual-Symposium",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Contenuti/Eventi/Eventi-passati",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Contenuti/Eventi/Eventi-passati/2012-Chiropractic-Sports-Sciences-Symposium",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Contenuti/Eventi/MEDICA-Trade-Fair-2012",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Contenuti/Eventi/MEDICA-Trade-Fair-2013",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Contenuti/News/Nuova-versione-software-1-9",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Contenuti/News/Video-replay-corrupted-after-Windows-Update",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Contenuti/Video-Gallery",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Contenuti/Video-Gallery/Presentation-of-Matt-Shade",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Contenuti/Video-Gallery/Presentation-of-MD-J-Jimenz",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Contenuti/Video-Gallery/Seminario-patologia-del-pie-Zaragoza",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Contenuti/Video-Gallery/Treadmill-Speed",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Contenuti/Video-Gallery/Video-Feedback-Feature",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Cos-e-OptoGait/Montaggio-e-setup",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Support/Downloads-it",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Support/FAQ-it",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
+  },
+  {
+    "Path": "/Support/Knowledge-Base-It",
+    "NewUrl": "https://medical.microgate.it/it/prodotti/optogait"
   }
+
+
 ]

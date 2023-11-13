@@ -8,6 +8,11 @@ namespace RizSoft.SiteThatRedirects
 {
     public class MyRedirectRule : IRule
     {
+        private readonly List<UrlRedir> _urls;
+        public MyRedirectRule(List<UrlRedir> urls)
+        {
+                _urls = urls;
+        }
         public int StatusCode { get; } = (int)HttpStatusCode.MovedPermanently;
         public bool ExcludeLocalhost { get; set; } = false;
 
@@ -16,31 +21,43 @@ namespace RizSoft.SiteThatRedirects
             var request = context.HttpContext.Request;
             var host = request.Host;
 
-            string filename = "UrlList.json";
-            if (File.Exists(filename))
-            {       
-                using FileStream openStream = File.OpenRead(filename);
-                var urls = JsonSerializer.Deserialize<List<UrlRedir>>(openStream);  
+          
+            //IMemoryCache memoryCache = new MemoryCache(new MemoryCacheOptions());
 
-                //TODO cache after 1st load
-                // how to inject Imemorycache??
-                //if (!_memoryCache.TryGetValue("myKey", out List<UrlRedir> urls))
-                //{
-                //    urls = JsonSerializer.Deserialize<List<UrlRedir>>(openStream);
-                //    _memoryCache.Set("myKey", urls, TimeSpan.FromMinutes(5)); // Cache for 5 minutes
-                //}
+            //if (!memoryCache.TryGetValue("UrlList", out List<UrlRedir> urls))
+            //{
+                
+            //    if (File.Exists("UrlList.json"))
+            //    {
+            //        using FileStream openStream = File.OpenRead(filename);
+            //        urls = JsonSerializer.Deserialize<List<UrlRedir>>(openStream);
+            //    }
+            //    else
+            //    {
+            //        urls = null;
+            //    }
 
-                if (urls != null)
-                {
-                    var url = urls.Find(x => x.Path == request.Path.ToString().ToLower());
-                    if (url != null)
+            //    var cacheOptions = new MemoryCacheEntryOptions()
+            //        .SetAbsoluteExpiration(TimeSpan.FromMinutes(30));
+
+            //    memoryCache.Set("UrlList", urls, cacheOptions);
+            //}
+
+            if (_urls != null && _urls.Count > 0)
+            {
+                    var url = _urls.Find(x => x.Path.ToLower() == request.Path.ToString().ToLower());
+                    if (url == null)
                     {
-                        var response = context.HttpContext.Response;
-                        response.StatusCode = StatusCode;
-                        response.Headers[HeaderNames.Location] = url.NewUrl;
-                        context.Result = RuleResult.EndResponse; // Do not continue processing the request
+                        //fallback sul primo nodo
+                        url = _urls.First();
                     }
-                }
+
+                    var response = context.HttpContext.Response;
+                    response.StatusCode = StatusCode;
+                    response.Headers[HeaderNames.Location] = url.NewUrl;
+                    context.Result = RuleResult.EndResponse; // Do not continue processing the request
+
+                
             }
         }
     }
